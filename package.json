@@ -11,7 +11,7 @@
     "fs": "0.0.1-security",
     "https": "^1.0.0",
     "loadtest": "^4.1.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "md5": "^2.2.1",
     "mysql": "^2.18.0",
     "promise-mysql": "^3.2.1",
